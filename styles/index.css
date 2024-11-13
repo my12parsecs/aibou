@@ -9,6 +9,10 @@ header{
     width: 80%;
     margin: auto;
     margin-top: 20px;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}
+.header-header{
     display: flex;
     justify-content: space-between;
 }
@@ -40,14 +44,14 @@ header{
 
 
 .menu-bar{
-    width: 80%;
+    width: 100%;
     margin: auto;
     margin-top: 10px;
     display: flex;
     /* justify-content: center; */
 }
 .menu-bar > div{
-    /* width: 80px; */
+    width: 80px;
 }
 .menu-bar > div > a{
     text-decoration: none;
