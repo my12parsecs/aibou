@@ -16,22 +16,22 @@ desc: 相棒の面白い回を集めたページ
 
 <br><br>
 
-### 1.9 人間消失
-##### 評価:B
+## 1.9 人間消失
+#### 評価:B
 集団催眠にのやつ
 
 僕の近所の教会がロケ地に使われてる。
 
 [![](https://douga.tv-asahi.co.jp/uploads/attachment/file/97557/d170067f-d3f9-4107-a1b5-4f89a068cb3e.)]()
 
-### 4.9 冤罪
+## 4.9 冤罪
 ##### 評価:A
 ここに内容を書きます。
 
 [![](https://douga.tv-asahi.co.jp/uploads/attachment/file/171370/98c40ad8-a47f-4d9e-b2db-038d71bef939.)](https://www.tv-asahi.co.jp/aibou_04/4/contents/story_oa/0009/)
 
-### 4.19 ついてない女
-##### 評価:A
+## 4.19 ついてない女
+#### 評価:A
 月元幸子
 
 [![](https://douga.tv-asahi.co.jp/uploads/attachment/file/171390/a98c08d8-0496-4513-936e-68476ce5442a.)](https://www.tv-asahi.co.jp/aibou_04/4/contents/story_oa/0021/)
