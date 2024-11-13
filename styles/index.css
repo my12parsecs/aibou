@@ -47,7 +47,7 @@ header{
     /* justify-content: center; */
 }
 .menu-bar > div{
-    width: 80px;
+    /* width: 80px; */
 }
 .menu-bar > div > a{
     text-decoration: none;
