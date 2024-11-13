@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 相棒の面白い回
+desc: 相棒の面白い回を集めたページ
 ---
 
 # 相棒の良い回

@@ -3,12 +3,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{page.title}}</title>
 
-    <link rel="stylesheet" type="text/css" href="/aibou/styles/index.css" media="screen">
+    <title>{{page.title}}</title>
+    <meta name="description" content={{page.desc}}>
+    <meta name="keywords" content="キーワード1, キーワード2, キーワード3"> <!-- ページのキーワード（現在は検索エンジンにほとんど無視されがち） -->
+
+
+    <meta name="author" content="Hikaru Imai">
+    <meta name="robots" content="index, follow"> <!-- SEO対策用のRobots設定 -->
+        
+    <!-- OGP（Open Graph Protocol）メタタグ：FacebookやTwitterでのシェア時に使用 -->
+    <meta property="og:title" content={{page.title}}>
+    <meta property="og:description" content={{page.desc}}>
+    <meta property="og:image" content="https://example.com/image.jpg">
+    <meta property="og:url" content="https://example.com">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="サイト名">
+    
+    <!-- Twitter用メタタグ -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content={{page.title}}>
+    <meta name="twitter:description" content={{page.desc}}>
+    <meta name="twitter:image" content="https://example.com/image.jpg">
+    
+    
+
+    <!-- <link rel="icon" href="/favicon.ico" type="image/x-icon"> -->
+
+    <!-- Umami Analytics -->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="ab1641ac-d6c8-4cdc-9d67-d72bb2cb2bd7"></script>
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/styles/index.css" media="screen">
 </head>
 <body>
-    <h1>Hello Aibou</h1>
-    {{content}}
+    <header>
+        <h1 class="header-title">相棒</h1>
+        <p class="header-author">by Hikaru</p>
+    </header>
+
+    <div id="content" class="content">
+        {{content}}
+    </div>
+
+    <!-- <footer></footer> -->
 </body>
 </html>

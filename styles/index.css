@@ -1,9 +1,26 @@
 
 
 body{
-    background-color: red;
+    background-color: rgb(25, 25, 25);
+    color: white;
 }
 
-h1{
-    color: blue;
+header{
+    width: 80%;
+    margin: auto;
 }
+.header-title{
+    margin-bottom: 0;
+}
+.header-author{
+    margin-top: 0;
+    color: rgb(210, 210, 210);
+    font-size: 15px;
+}
+
+
+#content{
+    width: 80%;
+    margin: auto;
+}
+
