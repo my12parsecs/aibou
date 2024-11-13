@@ -30,6 +30,37 @@ header{
     color: rgb(210, 210, 210);
     font-size: 13px;
 }
+.header-author-link{
+    text-decoration: none;
+}
+.header-author-link:hover{
+    text-decoration: underline;
+}
+
+
+
+.menu-bar{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    /* justify-content: center; */
+}
+.menu-bar > div{
+    width: 80px;
+}
+.menu-bar > div > a{
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+}
+.menu-bar > div > a:hover{
+    color: rgb(239, 247, 255);
+}
+
+
+
+
 
 
 #content{
