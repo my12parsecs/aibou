@@ -50,6 +50,8 @@ header{
     margin-top: 10px;
     display: flex;
     /* justify-content: center; */
+    background-color: rgb(75, 75, 75);
+    border-radius: 500px;
 }
 .menu-bar > div{
     width: 80px;
