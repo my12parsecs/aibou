@@ -101,3 +101,18 @@ h2, h3, h4, h5, h6{
 p{
     margin-bottom: 0;
 }
+
+
+
+
+@media screen and (max-width: 450px){
+    header{
+        width: 100%;
+    }
+    .menu-bar{
+        width: 100%;
+    }
+    #content{
+        width: 100%;
+    }
+}
