@@ -152,21 +152,21 @@ desc: 相棒の面白い回を集めたページ
 <br>
 
 ## 12.14 顔
-#### 評価:B
+#### 評価:C
 整形、読売ランド出てくる
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou_12/story/0014/img/01.jpg)](https://www.tv-asahi.co.jp/aibou_12/story/0014/)
 <br>
 
 ## 13.14 アザミ
 #### 評価:C
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou_13/contents/story/0014/img/0_12.jpg)](https://www.tv-asahi.co.jp/aibou_13/contents/story/0014/)
 <br>
 
 ## 13.15,16 鮎川教授最後の授業
 #### 評価:B
 
 監禁される
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou_13/contents/story/0015/img/0_16.jpg)](https://www.tv-asahi.co.jp/aibou_13/contents/story/0015/)
 <br>
 
 
@@ -174,43 +174,43 @@ desc: 相棒の面白い回を集めたページ
 ## 14.6 はつ恋
 #### 評価:A
 めちゃ良い
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou14/sphone/story/0006/img/0_13.jpg)](https://www.tv-asahi.co.jp/aibou14/sphone/story/?pid=0006)
 <br>
 
 ## 14.7 キモノ綺譚
 #### 評価:A
 二重人格のやつ
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou14/contents/story/0007/img/0_13.jpg)](https://www.tv-asahi.co.jp/aibou14/contents/story/0007/)
 <br>
 
 ## 14.17 物理学者と猫
 #### 評価:B
 シュレディンガーのやつ
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou14/contents/story/0017/img/0_13.jpg)](https://www.tv-asahi.co.jp/aibou14/contents/story/0017/)
 <br>
 
 ## 15.4 出来心
 #### 評価:B
 詐欺師のやつ、最後のやり取りが神
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou15/contents/story/0004/img/0_13.jpg)](https://www.tv-asahi.co.jp/aibou15/contents/story/0004/)
 <br>
 
 ## 15.6 嘘吐き
 #### 評価:B
 漫画家の隣の部屋のやつ
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou15/sphone/story/0006/img/0_19.jpg)](https://www.tv-asahi.co.jp/aibou15/sphone/story/?pid=0006)
 <br>
 
 ## 16.19 少年A
 #### 評価:B
 無戸籍のやつ
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou16/story/0019/images/rI2qd8xdOs.jpg)](https://www.tv-asahi.co.jp/aibou16/story/0019/)
 <br>
 
 ## 18.3 少女
 #### 評価:C
 妹のやつ
-[![]()]()
+[![](https://www.tv-asahi.co.jp/aibou18/story/0003/img/01.jpg)](https://www.tv-asahi.co.jp/aibou18/story/0003/)
 <br>
 
 
