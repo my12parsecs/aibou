@@ -111,6 +111,7 @@ p{
     }
     .menu-bar{
         width: 95%;
+        border-radius: 7px;
     }
     #content{
         width: 95%;
