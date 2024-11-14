@@ -84,41 +84,137 @@ desc: 相棒の面白い回を集めたページ
 
 <br>
 
+## 8.3 ミス・グリーンの秘密
+#### 評価:C
 
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/118550/a2939589-f82e-418a-84a1-f825a2a95153.)](https://www.tv-asahi.co.jp/aibou_08/story/0003/index.html)
+<br>
 
+## 8.17 怪しい隣人
+#### 評価:B
+
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/118583/9a88c28c-bc25-4fa2-9f23-583990f00f51.)](https://www.tv-asahi.co.jp/aibou_08/story/0017/index.html)
+<br>
+
+## 8.18 右京風邪を引く
+#### 評価:A
+
+1位候補
+
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/118581/4072e15c-e685-49d1-8131-450e4136a691.)](https://www.tv-asahi.co.jp/aibou_08/story/0018/index.html)
+<br>
+
+## 9.8 ボーダーライン
+#### 評価:B
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/100537/3c3b2e1e-9230-4fda-b5f8-cd850d0a08b1.)](https://www.tv-asahi.co.jp/aibou_09/story/0008/)
+<br>
+
+## 9.10 聖戦
+#### 評価:C
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/100545/d6fad31e-8eb1-43c9-b339-201dc3230112.)](https://www.tv-asahi.co.jp/aibou_09/story/0010/index.html)
+<br>
+
+## 9.14 右京のスーツ
+#### 評価:B
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/100559/e211c3d3-6d1b-48d2-b88a-1251ac96956b.)](https://www.tv-asahi.co.jp/aibou_09/story/0014/index.html)
+<br>
+
+## 9.16 監察対象 杉下右京
+#### 評価:B
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/100563/b4f4c776-f41c-4d48-8bd8-df917bae9568.)](https://www.tv-asahi.co.jp/aibou_09/story/0016/index.html)
+<br>
+
+## 10.10 ピエロ
+#### 評価:A
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/98760/c601213a-0a05-48be-a2e4-35aaa2a811a7.)](https://www.tv-asahi.co.jp/aibou_10/story/0010/index.html)
+<br>
+
+## 10.13 藍よりも青し
+#### 評価:B
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/171181/eac9862b-1709-4420-a057-64fcedee02e2.)](https://www.tv-asahi.co.jp/aibou_10/story/0013/index.html)
+<br>
+
+## 11.2 オークション
+#### 評価:B
+[![](https://www.tv-asahi.co.jp/aibou_11/story/img/02/1.jpg)](https://www.tv-asahi.co.jp/aibou_11/story/02.html)
+<br>
+
+## 11.18 Birthday
+#### 評価:A
+[![](https://douga.tv-asahi.co.jp/uploads/attachment/file/43447/86672c5c-c54a-46f2-a147-c70685e66d9e.)](https://www.tv-asahi.co.jp/aibou_11/story/18.html)
+<br>
+
+## 12.3 原因菌
+#### 評価:B
+スープトップのやつ
+
+[![](https://www.tv-asahi.co.jp/aibou_12/story/0003/img/03.jpg)](https://www.tv-asahi.co.jp/aibou_12/sphone/story/0003/)
+<br>
+
+## 12.14 顔
+#### 評価:B
+整形、読売ランド出てくる
 [![]()]()
+<br>
+
+## 13.14 アザミ
+#### 評価:C
 [![]()]()
+<br>
+
+## 13.15,16 鮎川教授最後の授業
+#### 評価:B
+
+監禁される
 [![]()]()
+<br>
+
+
+
+## 14.6 はつ恋
+#### 評価:A
+めちゃ良い
 [![]()]()
+<br>
+
+## 14.7 キモノ綺譚
+#### 評価:A
+二重人格のやつ
+[![]()]()
+<br>
+
+## 14.17 物理学者と猫
+#### 評価:B
+シュレディンガーのやつ
+[![]()]()
+<br>
+
+## 15.4 出来心
+#### 評価:B
+詐欺師のやつ、最後のやり取りが神
+[![]()]()
+<br>
+
+## 15.6 嘘吐き
+#### 評価:B
+漫画家の隣の部屋のやつ
+[![]()]()
+<br>
+
+## 16.19 少年A
+#### 評価:B
+無戸籍のやつ
+[![]()]()
+<br>
+
+## 18.3 少女
+#### 評価:C
+妹のやつ
+[![]()]()
+<br>
 
 
 
-8.3		C	ミスグリーン
-8.17	B	怪しい隣人			男3人のやつ
-8.18	A	右京風邪を引く		めちゃ良い
-9.8		B	ボーダーライン
-9.10	C	聖戦				長い、cinematic、後半は微妙
-9.14	B	右京のスーツ
-9.16	B	監察対象杉下右京
-10.10	A	ピエロ
-10.13	B	藍よりも青し
-11.2		B	オークション		手のやつ
-11.18	A	Birthday
-12.3	B	原因菌				スープトップのやつ
-12.14	B	顔					整形、読売ランド出てくる
-13.14	C	アザミ
-13.15,16	B	鮎川教授最後の授業	監禁される
-
-14.6	A	はつ恋				めちゃ良い
-14.7		A	キモノ綺譚			二重人格のやつ
-14.17	B	物理学者と猫		シュレディンガーのやつ
-
-15.4	B	出来心				詐欺師のやつ、最後のやり取りが神
-15.6	B	嘘吐き				漫画家の隣の部屋のやつ
-
-16.19	B	少年A				無戸籍のやつ
-
-18.3	C	少女				妹のやつ
 
 
 
@@ -129,6 +225,4 @@ desc: 相棒の面白い回を集めたページ
 
 
 
-
-
-
+バベルの塔
