@@ -103,6 +103,10 @@ p{
 }
 
 
+#content{
+    margin-bottom: 100px;
+}
+
 
 
 @media screen and (max-width: 450px){
