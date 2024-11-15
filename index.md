@@ -304,8 +304,11 @@ desc: 相棒の面白い回を集めたページ
 [![](https://www.tv-asahi.co.jp/aibou18/story/0003/img/01.jpg)](https://www.tv-asahi.co.jp/aibou18/story/0003/)
 
 <br>
+<br>
 
 
+
+あなたはどの回が好きですか？
 
 
 
